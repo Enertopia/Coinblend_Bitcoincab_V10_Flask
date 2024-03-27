@@ -1,0 +1,3 @@
+DATABASE_URI=sqlite:///bitcoincab.db
+JWT_SECRET_KEY=your_jwt_secret_key
+CONVERSION_RATE=0.000020
