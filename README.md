@@ -1,0 +1,26 @@
+/bitcoincab-flask-app
+    /app
+        __init__.py
+        /api
+            __init__.py
+            payment_routes.py
+        /models
+            __init__.py
+            models.py
+        /services
+            __init__.py
+            conversion_service.py
+            blockchain_service.py
+        /utils
+            __init__.py
+            security.py
+        /auth
+            __init__.py
+            auth.py
+        config.py
+    /migrations
+    requirements.txt
+    Dockerfile
+    docker-compose.yml
+    .env
+    run.py
